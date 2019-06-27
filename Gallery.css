@@ -1,0 +1,26 @@
+body {
+  padding-top: 70px;
+}
+
+.thumbnail img {
+object-fit: cover;
+height: 400px;
+width:100%;
+}
+
+.jumbotron {
+  color:#F7AEC2;
+  background:#FFE4E1;
+}
+
+.navbar-inverse {
+  background: #F7AEC2;
+}
+
+.navbar-inverse .navbar-brand {
+  color:white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color:white;
+}
